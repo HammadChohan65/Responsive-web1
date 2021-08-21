@@ -34,7 +34,7 @@ a:hover{background-color:#2C2E43;}
 	}
 .showcase{
 	grid-area:showcase;
-	background-image:url('images/img2.jpg');
+	background-image:url('img2.jpg');
 	background-size:cover;
 	background-position:center;
 	color:white;
@@ -88,7 +88,7 @@ a:hover{background-color:#2C2E43;}
 	padding:1.5rem;
 }
 .info-a{
-	background-image:url("images/img1.jpg");
+	background-image:url("img1.jpg");
 	background-size:cover;
 	background-position:center;
 }
